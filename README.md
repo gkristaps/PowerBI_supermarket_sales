@@ -4,4 +4,4 @@ Latvian Post practical assignment
 2. Clean data for data model,
 3. Make certain visuals for interactive dashboard.
 4. Comment about finding in data.
-Document of the approach - https://docs.google.com/document/d/1duTxQuh3_Jyry1qW4UFUblQbPmrrCNYs5-bDCraRrqg/edit (In latvian)
+Document of the approach - https://docs.google.com/document/d/1duTxQuh3_Jyry1qW4UFUblQbPmrrCNYs5-bDCraRrqg/edit?usp=sharing (In latvian)
